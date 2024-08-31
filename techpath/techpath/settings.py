@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-^-l7%zl0@w6oco5cj6*1eh=4ap51@b!c)t8u_2ih6*a-7ilz^+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['travelapi-a5jj.onrender.com']
+ALLOWED_HOSTS = ['travelapi-1.onrender.com']
 
 
 #CORS_ALLOWED_ORIGINS = ["http://localhost:3000",
