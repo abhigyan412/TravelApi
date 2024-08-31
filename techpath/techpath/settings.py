@@ -29,11 +29,9 @@ DEBUG = True
 ALLOWED_HOSTS = ['travelapi-a5jj.onrender.com']
 
 
-CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
-]
+#CORS_ALLOWED_ORIGINS = ["http://localhost:3000",
 
-CORS_ALLOW_ALL_ORIGINS = True
+#CORS_ALLOW_ALL_ORIGINS = True
 
 
 
